@@ -29,7 +29,7 @@ This project is a **Java-based ATM Simulation System**, developed using the **Ne
 ### 📁 Clone the Repository
 
 
-https://github.com/Yusuf611/Bank-Management-System
+https://github.com/as4dmin/Secure-Online-Banking-Application
 
 ### 🛠️ Database Setup
 Start MySQL Server.
