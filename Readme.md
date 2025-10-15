@@ -1,4 +1,4 @@
-# 💳 BANK Management System (NetBeans + MySQL)
+# 💳 Secure Online Banking Application
 
 This project is a **Java-based ATM Simulation System**, developed using the **NetBeans IDE** and **MySQL** as the backend database. The GUI mimics a real ATM interface and allows users to perform essential banking transactions.
 
